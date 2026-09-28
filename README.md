@@ -1,6 +1,6 @@
-https://colab.research.google.com/drive/1NpAi47vXWTF9eDOirNUyVKsE-aiQLTUd#scrollTo=QyU_PdGySvYm&fullscreenOutput=true
-# Intensity Level Slicing using Python and OpenCV
 
+# Intensity Level Slicing using Python and OpenCV
+<img src ="" alt="output image" width="200"?
 ## Aim
 
 To perform **Intensity Level Slicing** on an image using Python and OpenCV by highlighting pixels within a specified intensity range.
