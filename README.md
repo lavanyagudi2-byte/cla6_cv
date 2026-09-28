@@ -1,7 +1,9 @@
 
 # Intensity Level Slicing using Python and OpenCV
 
+<img src ="original 6.png" alt="Output Image" width="100">
 <img src ="cla6.png" alt="Output Image" width="300">
+
 
 ## Aim
 
