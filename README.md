@@ -1,6 +1,8 @@
 
 # Intensity Level Slicing using Python and OpenCV
-<img src ="" alt="output image" width="200"?
+
+<img src ="cla6.png" alt="Output Image" width="300">
+
 ## Aim
 
 To perform **Intensity Level Slicing** on an image using Python and OpenCV by highlighting pixels within a specified intensity range.
